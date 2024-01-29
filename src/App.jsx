@@ -6,7 +6,9 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <div>Paras Parashar is a good boy.</div>;
+  return <div>Paras Parashar is a good boy.
+    <div>haa lamba dalunaga</div>
+  </div>;
 }
 
 export default App;
